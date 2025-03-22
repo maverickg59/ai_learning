@@ -1,22 +1,31 @@
 # AI Learning Resources
 ## Practical Blogs:
 - https://www.aihero.dev/
+- https://distill.pub/
+- https://mlu-explain.github.io/
+
+## Engineer Blogs
+- https://karpathy.ai/
+- https://lilianweng.github.io/
+
+## Deep Learning Videos
+- https://www.youtube.com/@AndrejKarpathy
 
 ## Agentic Modeling:
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
 
-## Providers:
+## Service Providers:
 - ElevenLabs (TTS, STT, conversational AI)
 - VAPI (TTS, STT, conversational AI)
 - OpenAI
 
-## Unsorted Links:
-- https://bbycroft.net/llm
-- https://www.youtube.com/@AndrejKarpathy
-- https://karpathy.ai/
+## Training Providers:
 - https://eurekalabs.ai/
-- https://github.com/karpathy/LLM101n
-- https://distill.pub/
-- https://mlu-explain.github.io/
-- https://lilianweng.github.io/- 
+- - https://github.com/karpathy/LLM101n
+
+## Tools:
+- https://opentools.ai/
+
+## LLM Mechanics
+- https://bbycroft.net/llm
