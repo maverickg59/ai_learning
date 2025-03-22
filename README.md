@@ -1,6 +1,6 @@
 # AI Learning Resources
 ## Practical Blogs:
-https://www.aihero.dev/
+- https://www.aihero.dev/
 
 ## Agentic Modeling:
 - https://www.anthropic.com/engineering/building-effective-agents
