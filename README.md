@@ -12,6 +12,7 @@
 - https://www.youtube.com/@AndrejKarpathy
 
 ## Agentic Modeling:
+- https://github.com/microsoft/ai-agents-for-beginners
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
 
@@ -29,3 +30,6 @@
 
 ## LLM Mechanics
 - https://bbycroft.net/llm
+
+## Local LLM
+- https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
