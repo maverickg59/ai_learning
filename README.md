@@ -12,6 +12,7 @@
 - https://www.youtube.com/@AndrejKarpathy
 
 ## Agentic Modeling:
+- https://github.com/humanlayer/12-factor-agents
 - https://github.com/microsoft/ai-agents-for-beginners
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
