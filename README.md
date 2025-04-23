@@ -4,6 +4,10 @@
 - https://distill.pub/
 - https://mlu-explain.github.io/
 
+## AI Engineers Handbook
+- https://handbook.exemplar.dev
+- https://handbook.exemplar.dev
+
 ## Engineer Blogs
 - https://karpathy.ai/
 - https://lilianweng.github.io/
