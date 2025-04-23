@@ -11,6 +11,7 @@
 ## Engineer Blogs
 - https://karpathy.ai/
 - https://lilianweng.github.io/
+- https://mcginniscommawill.com/
 
 ## Deep Learning Videos
 - https://www.youtube.com/@AndrejKarpathy
@@ -20,6 +21,7 @@
 - https://github.com/microsoft/ai-agents-for-beginners
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
+- https://github.com/karpathy/LLM101n
 
 ## Service Providers:
 - ElevenLabs (TTS, STT, conversational AI)
@@ -28,7 +30,6 @@
 
 ## Training Providers:
 - https://eurekalabs.ai/
-- - https://github.com/karpathy/LLM101n
 
 ## Tools:
 - https://opentools.ai/
