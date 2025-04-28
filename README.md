@@ -33,6 +33,7 @@
 
 ## Tools:
 - https://opentools.ai/
+- https://deepwiki.com/
 
 ## LLM Mechanics
 - https://bbycroft.net/llm
