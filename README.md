@@ -39,3 +39,7 @@
 
 ## Local LLM
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
+
+## Comparing Models
+- https://docsbot.ai/models
+- https://artificialanalysis.ai/
