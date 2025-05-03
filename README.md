@@ -15,6 +15,7 @@
 
 ## Deep Learning Videos
 - https://www.youtube.com/@AndrejKarpathy
+- https://github.com/adam-maj/deep-learning
 
 ## Agentic Modeling:
 - https://github.com/humanlayer/12-factor-agents
