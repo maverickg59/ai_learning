@@ -38,6 +38,7 @@
 
 ## LLM Mechanics
 - https://bbycroft.net/llm
+- - https://www.youtube.com/watch?v=9vM4p9NN0Ts
 
 ## Local LLM
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
