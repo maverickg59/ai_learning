@@ -23,6 +23,7 @@
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
 - https://github.com/karpathy/LLM101n
+- https://ampcode.com/how-to-build-an-agent
 
 ## Service Providers:
 - ElevenLabs (TTS, STT, conversational AI)
@@ -42,6 +43,7 @@
 
 ## Local LLM
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
+- https://github.com/microsoft/BitNet
 
 ## Comparing Models
 - https://docsbot.ai/models
