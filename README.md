@@ -50,7 +50,9 @@
 - https://artificialanalysis.ai/
 
 ## Interesting Models
-Microsoft Bitnet
+
+### Microsoft Bitnet
 - https://github.com/microsoft/BitNet
-NVIDIA Parakeet v2
+
+### NVIDIA Parakeet v2
 - https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
