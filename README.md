@@ -1,23 +1,24 @@
-# AI Learning Resources
-## Practical Blogs:
+# AI Resources 
+## AI Learning
+### Practical Blogs:
 - https://www.aihero.dev/
 - https://distill.pub/
 - https://mlu-explain.github.io/
 
-## AI Engineers Handbook
+### AI Engineers Handbook
 - https://handbook.exemplar.dev
 - https://handbook.exemplar.dev
 
-## Engineer Blogs
+### Engineer Blogs
 - https://karpathy.ai/
 - https://lilianweng.github.io/
 - https://mcginniscommawill.com/
 
-## Deep Learning Videos
+### Deep Learning Videos
 - https://www.youtube.com/@AndrejKarpathy
 - https://github.com/adam-maj/deep-learning
 
-## Agentic Modeling:
+### Agentic Modeling:
 - https://github.com/humanlayer/12-factor-agents
 - https://github.com/microsoft/ai-agents-for-beginners
 - https://www.anthropic.com/engineering/building-effective-agents
@@ -25,26 +26,31 @@
 - https://github.com/karpathy/LLM101n
 - https://ampcode.com/how-to-build-an-agent
 
-## Service Providers:
+### Service Providers:
 - ElevenLabs (TTS, STT, conversational AI)
 - VAPI (TTS, STT, conversational AI)
 - OpenAI
 
-## Training Providers:
+### Training Providers:
 - https://eurekalabs.ai/
 
-## Tools:
+### Tools:
 - https://opentools.ai/
 - https://deepwiki.com/
 
-## LLM Mechanics
+### Running Locally
+- https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
+
+### LLM Mechanics
 - https://bbycroft.net/llm
 - https://www.youtube.com/watch?v=9vM4p9NN0Ts
 
-## Local LLM
-- https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
-- https://github.com/microsoft/BitNet
-
-## Comparing Models
+### Comparing Models
 - https://docsbot.ai/models
 - https://artificialanalysis.ai/
+
+## Interesting Models
+Microsoft Bitnet
+- https://github.com/microsoft/BitNet
+NVIDIA Parakeet v2
+- https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
