@@ -38,8 +38,22 @@
 - https://opentools.ai/
 - https://deepwiki.com/
 
-### Running Locally
+### Running Locally - Tutorials
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
+
+### Running Locally - UI
+- https://github.com/open-webui/open-webui
+- https://github.com/oobabooga/text-generation-webui
+
+### Running Locally - Model Runner
+- https://github.com/ollama/ollama
+
+### Running Locally - UI + Model Runner
+- https://github.com/lmstudio-ai
+- https://github.com/nomic-ai/gpt4all
+
+- ### Running Locally - MCP Support
+- https://github.com/open-webui/mcpo
 
 ### LLM Mechanics
 - https://bbycroft.net/llm
