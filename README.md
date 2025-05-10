@@ -52,7 +52,7 @@
 - https://github.com/lmstudio-ai
 - https://github.com/nomic-ai/gpt4all
 
-- ### Running Locally - MCP Support
+### Running Locally - MCP Support
 - https://github.com/open-webui/mcpo
 
 ### LLM Mechanics
