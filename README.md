@@ -76,3 +76,9 @@
 
 ### NVIDIA Parakeet v2
 - https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
+
+## AI for Leaders
+### AI in the Enterprise:
+- https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
+- https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
+
