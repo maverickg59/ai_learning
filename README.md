@@ -32,49 +32,49 @@
 ### Training Providers:
 - https://eurekalabs.ai/ (by Andrej Karpathy - coming soon)
 
-### Machine Learning
+### Machine Learning:
 - https://mlu-explain.github.io/
 - https://distill.pub/
 
-### LLM Mechanics
+### LLM Mechanics:
 - https://bbycroft.net/llm
 - [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 - [Andrej Karpathy Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ## Everyday Use
 
-### Tools:
-- https://opentools.ai/
-- https://deepwiki.com/
-
-### Comparing Models
+### Comparing Models:
 - https://docsbot.ai/models
 - https://artificialanalysis.ai/
 - https://web.lmarena.ai/leaderboard
 
-### Running Locally - Tutorials
+### Running Locally - Tutorials:
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
 
-### Running Locally - UI
+### Running Locally - UI:
 - https://github.com/open-webui/open-webui
 - https://github.com/oobabooga/text-generation-webui
 
 ### Running Locally - Model Runner
 - https://github.com/ollama/ollama
 
-### Running Locally - UI + Model Runner
+### Running Locally - UI + Model Runner:
 - https://github.com/lmstudio-ai
 - https://github.com/nomic-ai/gpt4all
 
-### Running Locally - MCP Support
+### Running Locally - MCP Support:
 - https://github.com/open-webui/mcpo
+
+### Tools:
+- https://opentools.ai/
+- https://deepwiki.com/
 
 ## Interesting Models
 
-### Microsoft Bitnet
+### Microsoft Bitnet:
 - https://github.com/microsoft/BitNet
 
-### NVIDIA Parakeet v2
+### NVIDIA Parakeet v2:
 - https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
 
 ## AI for Leaders
