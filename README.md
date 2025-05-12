@@ -35,9 +35,11 @@
 ### Machine Learning:
 - https://mlu-explain.github.io/
 - https://distill.pub/
+- https://themlbook.com/
 
-### LLM Mechanics:
+### Large Language Models:
 - https://bbycroft.net/llm
+- https://thelmbook.com/
 - [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 - [Andrej Karpathy Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
