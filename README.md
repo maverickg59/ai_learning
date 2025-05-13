@@ -31,6 +31,7 @@
 
 ### Training Providers:
 - https://eurekalabs.ai/ (by Andrej Karpathy - coming soon)
+- [DAIR.AI](https://dair-ai.thinkific.com)
 
 ### Machine Learning:
 - https://mlu-explain.github.io/
@@ -42,6 +43,7 @@
 - https://thelmbook.com/
 - [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 - [Andrej Karpathy Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [Guide to Reasoning Models](https://docs.google.com/document/d/1AwylUdyciJhvYn-64ltpe79UL7_G-BmNwqs4NNt4oQ0)
 
 ## Everyday Use
 
