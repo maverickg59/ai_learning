@@ -45,7 +45,12 @@
 - [Andrej Karpathy Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 - [Guide to Reasoning Models](https://docs.google.com/document/d/1AwylUdyciJhvYn-64ltpe79UL7_G-BmNwqs4NNt4oQ0)
 
-## Everyday Use
+## Applied AI
+
+### Model Context Protocol:
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/punkpeye/awesome-mcp-clients
+- https://github.com/punkpeye/awesome-mcp-devtools
 
 ### Comparing Models:
 - https://docsbot.ai/models
