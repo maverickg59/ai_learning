@@ -10,7 +10,6 @@
 - https://lilianweng.github.io/
 - https://mcginniscommawill.com/
 - https://simonwillison.net/
-- https://www.aihero.dev/posts
 - https://vinija.ai/
 
 ### Deep Learning:
