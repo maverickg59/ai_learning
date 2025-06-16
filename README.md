@@ -58,7 +58,7 @@
 check out Stanford Online's playlists and look for AI collections:
 - https://www.youtube.com/@stanfordonline/playlists
 
-CS25 Links
+Stanford CS25 Links
 - 2021 (v1): https://web.stanford.edu/class/cs25/past/cs25-v1/
 - 2023 (v2): https://web.stanford.edu/class/cs25/past/cs25-v2/
 - 2024-1 (v3): https://web.stanford.edu/class/cs25/past/cs25-v3/
@@ -100,8 +100,10 @@ CS25 Links
 
 ## Interesting Models
 
-### Microsoft Bitnet:
-- https://github.com/microsoft/BitNet
+### One Bit LLM:
+- [Microsoft Bitnet](https://github.com/microsoft/BitNet)
+- https://jackson.dev/post/dont-sleep-on-bitnet/
+- [All LLMs Will Be Sparse BitNet Hybrids](https://huggingface.co/blog/codys12/rl-2025)
 
 ### NVIDIA Parakeet v2:
 - https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
@@ -159,6 +161,7 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 - [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 - [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
+- [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/pdf/2504.10449)
 
 ## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
