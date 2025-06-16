@@ -153,6 +153,7 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 ### Other Important Papers
 [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334)
 [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
+[PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 
 Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
