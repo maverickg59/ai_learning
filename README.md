@@ -11,6 +11,7 @@
 - https://mcginniscommawill.com/
 - https://simonwillison.net/
 - https://www.aihero.dev/posts
+- https://vinija.ai/
 
 ### Deep Learning:
 - https://www.youtube.com/@AndrejKarpathy
@@ -37,6 +38,10 @@
 - https://mlu-explain.github.io/
 - https://distill.pub/
 - https://themlbook.com/
+- https://vinija.ai/concepts/index.html
+
+### Natural Language Processing (NLP):
+- https://vinija.ai/nlp/index.html
 
 ### Large Language Models:
 - https://bbycroft.net/llm
