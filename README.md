@@ -145,7 +145,7 @@ CS25 Links
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
 - [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/pdf/2310.16944)
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
-- [The Perils & Promises of Fact-checking with Large Language Models](https://arxiv.org/pdf/2310.13549- )
+- [The Perils & Promises of Fact-checking with Large Language Models](https://arxiv.org/pdf/2310.13549)
 
 I created a NotebookLM audio overview of these papers. Remember that it's AI generated and not a full substitute for reading and understanding the studies:
 - [NotebookLM Audiobook](https://notebooklm.google.com/notebook/7ee53297-1fb7-4411-965a-02f48ce24c49/audio)
@@ -153,7 +153,7 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 ##Other Important Papers
 - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334)
 - [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
-- [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.0557)
+- [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 
 Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
