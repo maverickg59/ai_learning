@@ -43,6 +43,10 @@
 ### Natural Language Processing (NLP):
 - https://vinija.ai/nlp/index.html
 
+### Convolutional Neural Networks:
+- https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+- https://cs231n.github.io/
+
 ### Large Language Models:
 - https://bbycroft.net/llm
 - https://thelmbook.com/
