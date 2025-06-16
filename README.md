@@ -150,12 +150,16 @@ CS25 Links
 I created a NotebookLM audio overview of these papers. Remember that it's AI generated and not a full substitute for reading and understanding the studies:
 - [NotebookLM Audiobook](https://notebooklm.google.com/notebook/7ee53297-1fb7-4411-965a-02f48ce24c49/audio)
 
-##Other Important Papers
+### The Illusion of Thiking
+- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple)](https://arxiv.org/pdf/2506.06941)
+- [The Illusion of the Illusion of Thinking (Anthropic)](https://arxiv.org/pdf/2506.09250v1)
+
+### Other Important Papers
 - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334)
 - [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 - [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 
-Wiki Articles on Important Concepts:
+## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - https://en.wikipedia.org/wiki/Variational_autoencoder
 
