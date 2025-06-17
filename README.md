@@ -24,6 +24,7 @@
 - https://ampcode.com/how-to-build-an-agent
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+- https://github.com/NirDiamant/agents-towards-production
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 - [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
 - [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
