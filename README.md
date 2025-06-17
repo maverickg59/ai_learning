@@ -28,6 +28,10 @@
 - [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
 - [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
 
+### Model Context Protocol:
+- https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers
+- https://modelcontextprotocol.io/introduction
+
 ### Prompt Engineering:
 - https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 - https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
@@ -176,13 +180,14 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple)](https://arxiv.org/pdf/2506.06941)
 - [The Illusion of the Illusion of Thinking (Anthropic)](https://arxiv.org/pdf/2506.09250v1)
 
-### Other Important Papers
+### Recent Papers
 - [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334)
 - [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
 - [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
 - [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/pdf/2504.10449)
 - [RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning](https://arxiv.org/pdf/2506.11555)
+- [Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics](https://www.arxiv.org/pdf/2506.12365)
 
 ## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
