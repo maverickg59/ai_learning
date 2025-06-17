@@ -145,7 +145,7 @@ Stanford CS25 Links
 | :--- | :--- | :--- | :--- |
 | 1993 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights | NIPS 1993 | [PDF](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf) |
 | 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication (June 2004) | [arXiv](https://arxiv.org/pdf/math/0406077) |
-| 2008 | Machine Super Intelligence | PhD Thesis (June 22, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
+| 2008 | Machine Super Intelligence | PhD Thesis (June 17, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
 | 2011 | The First Law of Complexodynamics | Blog Post (2011) | [scottaaronson.blog](https://scottaaronson.blog/?p=762) |
 | 2012 | ImageNet Classification with Deep Convolutional Neural Networks | NIPS 2012 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
 | 2014 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton | arXiv (May 27, 2014) | [arXiv](https://arxiv.org/pdf/1405.6903) |
