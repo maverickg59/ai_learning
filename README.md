@@ -25,6 +25,8 @@
 - https://www.anthropic.com/engineering/building-effective-agents
 - https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
+- [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
 
 ### Prompt Engineering:
 - https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
