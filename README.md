@@ -77,7 +77,7 @@ Stanford CS25 Links
 - VS Code with GitHub Copilot
 - [Windsurf](https://windsurf.com/)
 - [Cursor](https://www.cursor.com/)
-- [RooCode]([https://roocode.com/](https://github.com/RooCodeInc/Roo-Code))
+- [RooCode]([https://roocode.com/](https://github.com/RooCodeInc/Roo-Code)
 - [Cline](https://github.com/cline/cline)
 
 ### Chat Apps
