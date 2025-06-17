@@ -190,11 +190,12 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | :--- | :--- | :--- | :--- |
 | 2023 | Gorilla: Large Language Model Connected with Massive APIs | arXiv (May 24, 2023) | [arXiv](https://arxiv.org/pdf/2305.15334) |
 | 2024 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | arXiv (February 27, 2024) | [arXiv](https://arxiv.org/pdf/2402.17764) |
-| 2025 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | arXiv (April 7, 2025) | [arXiv](https://arxiv.org/pdf/2504.10449) |
-| 2025 | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv (June 9, 2025) | [arXiv](https://arxiv.org/pdf/2506.05573) |
-| 2025 | Self-Adapting Language Models | arXiv (June 17, 2025) | [arXiv](https://arxiv.org/pdf/2506.10943) |
-| 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | arXiv (June 18, 2025) | [arXiv](https://arxiv.org/pdf/2506.11555) |
-| 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | arXiv (June 19, 2025) | [arXiv](https://www.arxiv.org/pdf/2506.12365) |
+| 2025 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | arXiv (April 14, 2025) | [arXiv](https://arxiv.org/pdf/2504.10449) |
+| 2025 | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv (June 5, 2025) | [arXiv](https://arxiv.org/pdf/2506.05573) |
+| 2025 | Self-Adapting Language Models | arXiv (June 12, 2025) | [arXiv](https://arxiv.org/pdf/2506.10943) |
+| 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | arXiv (June 13, 2025) | [arXiv](https://arxiv.org/pdf/2506.11555) |
+| 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | arXiv (June 14, 2025) | [arXiv](https://www.arxiv.org/pdf/2506.12365) |
+| 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.| Google DeepMind Gemini Team (June 17, 2025) | [Google](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) |
 
 ## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
