@@ -124,7 +124,7 @@ Stanford CS25 Links
 
 ### One Bit LLM:
 - [Microsoft Bitnet](https://github.com/microsoft/BitNet)
-- https://jackson.dev/post/dont-sleep-on-bitnet/
+- [Don't Sleep on Bitnet](https://jackson.dev/post/dont-sleep-on-bitnet/)
 - [All LLMs Will Be Sparse BitNet Hybrids](https://huggingface.co/blog/codys12/rl-2025)
 
 ### NVIDIA Parakeet v2:
@@ -138,45 +138,13 @@ Stanford CS25 Links
 ## Research Papers:
 
 ### Ilya Sutskever's Top 30 (Purported | PDF Where Possible)
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
-- [A Simple Neural Network Module for Relational Reasoning](https://arxiv.org/pdf/1706.01427)
-- [A Tutorial Introduction to the Minimum Description Length Principle](https://arxiv.org/pdf/math/0406077)
-- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
-- [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://proceedings.mlr.press/v48/amodei16.pdf)
-- [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://arxiv.org/pdf/1811.06965)
-- [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027)
-- [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-- [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf)
-- [Kolmogorov Complexity and Algorithmic Randomness](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf)
-- [Machine Super Intelligence](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l)
-- [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/pdf/1511.07122)
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
-- [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212)
-- [Neural Turing Machines](https://arxiv.org/pdf/1410.5401)
-- [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/pdf/1511.06391)
-- [Pointer Networks](http://papers.neurips.cc/paper/5866-pointer-networks.pdf)
-- [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton](https://arxiv.org/pdf/1405.6903)
-- [Recurrent Neural Network Regularization](https://arxiv.org/pdf/1409.2329)
-- [Relational Recurrent Neural Networks](https://arxiv.org/pdf/1806.01822)
-- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
-- [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
-- [The First Law of Complexodynamics](https://scottaaronson.blog/?p=762)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-- [Understanding LSTM Networks](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf)
-- [Variational Lossy Autoencoder](https://arxiv.org/pdf/1611.02731)
-- [Better & Faster Large Language Models Via Multi-token Prediction ](https://arxiv.org/pdf/2404.19737)
-- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906)
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401)
-- [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/pdf/2310.16944)
-- [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
-- [The Perils & Promises of Fact-checking with Large Language Models](https://arxiv.org/pdf/2310.13549)
-
 | Year | Paper Title | Publication Details | Link |
 | :--- | :--- | :--- | :--- |
 | 1965 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
 | 1993 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights | NIPS 1993 | [PDF](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf) |
 | 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication (June 2004) | [arXiv](https://arxiv.org/pdf/math/0406077) |
 | 2008 | Machine Super Intelligence | PhD Thesis (June 22, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
+| 2011 | The First Law of Complexodynamics | Blog Post (2011) | [scottaaronson.blog](https://scottaaronson.blog/?p=762) |
 | 2012 | ImageNet Classification with Deep Convolutional Neural Networks | NIPS 2012 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
 | 2014 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton | arXiv (May 27, 2014) | [arXiv](https://arxiv.org/pdf/1405.6903) |
 | 2014 | Neural Machine Translation by Jointly Learning to Align and Translate | arXiv (September 1, 2014) | [arXiv](https://arxiv.org/pdf/1409.0473) |
@@ -197,7 +165,6 @@ Stanford CS25 Links
 | 2018 | The Annotated Transformer | Workshop Paper (January 2018) | [nlp.seas.harvard.edu](https://nlp.seas.harvard.edu/annotated-transformer/) |
 | 2018 | Relational Recurrent Neural Networks | arXiv (June 5, 2018) | [arXiv](https://arxiv.org/pdf/1806.01822) |
 | 2018 | GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism | arXiv (November 16, 2018) | [arXiv](https://arxiv.org/pdf/1811.06965) |
-| 2019 | The First Law of Complexodynamics | Blog Post (2011) | [scottaaronson.blog](https://scottaaronson.blog/?p=762) |
 | 2020 | Scaling Laws for Neural Language Models | arXiv (January 23, 2020) | [arXiv](https://arxiv.org/pdf/2001.08361) |
 | 2020 | Dense Passage Retrieval for Open-Domain Question Answering | arXiv (April 7, 2020) | [arXiv](https://arxiv.org/pdf/2004.04906) |
 | 2020 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv (May 22, 2020) | [arXiv](https://arxiv.org/pdf/2005.11401) |
@@ -210,17 +177,21 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 - [NotebookLM Audiobook](https://notebooklm.google.com/notebook/7ee53297-1fb7-4411-965a-02f48ce24c49/audio)
 
 ### The Illusion of Thinking
-- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple)](https://arxiv.org/pdf/2506.06941)
-- [The Illusion of the Illusion of Thinking (Anthropic)](https://arxiv.org/pdf/2506.09250v1)
+| Year | Paper Title | Publication Details | Link |
+| :--- | :--- | :--- | :--- |
+| 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple) | arXiv (June 11, 2025) | [arXiv](https://arxiv.org/pdf/2506.06941) |
+| 2025 | The Illusion of the Illusion of Thinking (Anthropic) | arXiv (June 14, 2025) | [arXiv](https://arxiv.org/pdf/2506.09250v1) |
 
 ### Recent Papers
-- [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/pdf/2305.15334)
-- [Self-Adapting Language Models](https://arxiv.org/pdf/2506.10943)
-- [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
-- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
-- [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/pdf/2504.10449)
-- [RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning](https://arxiv.org/pdf/2506.11555)
-- [Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics](https://www.arxiv.org/pdf/2506.12365)
+| Year | Paper Title | Publication Details | Link |
+| :--- | :--- | :--- | :--- |
+| 2023 | Gorilla: Large Language Model Connected with Massive APIs | arXiv (May 24, 2023) | [arXiv](https://arxiv.org/pdf/2305.15334) |
+| 2024 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | arXiv (February 27, 2024) | [arXiv](https://arxiv.org/pdf/2402.17764) |
+| 2025 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | arXiv (April 7, 2025) | [arXiv](https://arxiv.org/pdf/2504.10449) |
+| 2025 | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv (June 9, 2025) | [arXiv](https://arxiv.org/pdf/2506.05573) |
+| 2025 | Self-Adapting Language Models | arXiv (June 17, 2025) | [arXiv](https://arxiv.org/pdf/2506.10943) |
+| 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | arXiv (June 18, 2025) | [arXiv](https://arxiv.org/pdf/2506.11555) |
+| 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | arXiv (June 19, 2025) | [arXiv](https://www.arxiv.org/pdf/2506.12365) |
 
 ## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
