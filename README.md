@@ -182,6 +182,7 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 - [PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](https://arxiv.org/pdf/2506.05573)
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764)
 - [M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models](https://arxiv.org/pdf/2504.10449)
+- [RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning](https://arxiv.org/pdf/2506.11555)
 
 ## Wiki Articles on Important Concepts:
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
