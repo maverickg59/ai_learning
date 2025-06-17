@@ -143,7 +143,6 @@ Stanford CS25 Links
 ### Ilya Sutskever's Top 30 (Purported | PDF Where Possible)
 | Year | Paper Title | Publication Details | Link |
 | :--- | :--- | :--- | :--- |
-| 1965 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
 | 1993 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights | NIPS 1993 | [PDF](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf) |
 | 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication (June 2004) | [arXiv](https://arxiv.org/pdf/math/0406077) |
 | 2008 | Machine Super Intelligence | PhD Thesis (June 22, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
@@ -162,6 +161,7 @@ Stanford CS25 Links
 | 2015 | Deep Residual Learning for Image Recognition | arXiv (December 10, 2015) | [arXiv](https://arxiv.org/pdf/1512.03385) |
 | 2016 | Identity Mappings in Deep Residual Networks | arXiv (March 16, 2016) | [arXiv](https://arxiv.org/pdf/1603.05027) |
 | 2016 | Variational Lossy Autoencoder | arXiv (November 8, 2016) | [arXiv](https://arxiv.org/pdf/1611.02731) |
+| 2017 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
 | 2017 | Neural Message Passing for Quantum Chemistry | arXiv (April 4, 2017) | [arXiv](https://arxiv.org/pdf/1704.01212) |
 | 2017 | A Simple Neural Network Module for Relational Reasoning | arXiv (June 5, 2017) | [arXiv](https://arxiv.org/pdf/1706.01427) |
 | 2017 | Attention Is All You Need | arXiv (June 12, 2017) | [arXiv](https://arxiv.org/pdf/1706.03762) |
