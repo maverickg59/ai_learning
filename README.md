@@ -171,6 +171,41 @@ Stanford CS25 Links
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
 - [The Perils & Promises of Fact-checking with Large Language Models](https://arxiv.org/pdf/2310.13549)
 
+| Year | Paper Title | Publication Details | Link |
+| :--- | :--- | :--- | :--- |
+| 1965 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
+| 1993 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights | NIPS 1993 | [PDF](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf) |
+| 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication (June 2004) | [arXiv](https://arxiv.org/pdf/math/0406077) |
+| 2008 | Machine Super Intelligence | PhD Thesis (June 22, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
+| 2012 | ImageNet Classification with Deep Convolutional Neural Networks | NIPS 2012 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
+| 2014 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton | arXiv (May 27, 2014) | [arXiv](https://arxiv.org/pdf/1405.6903) |
+| 2014 | Neural Machine Translation by Jointly Learning to Align and Translate | arXiv (September 1, 2014) | [arXiv](https://arxiv.org/pdf/1409.0473) |
+| 2014 | Recurrent Neural Network Regularization | arXiv (September 8, 2014) | [arXiv](https://arxiv.org/pdf/1409.2329) |
+| 2014 | Neural Turing Machines | arXiv (October 20, 2014) | [arXiv](https://arxiv.org/pdf/1410.5401) |
+| 2015 | The Unreasonable Effectiveness of Recurrent Neural Networks | Blog Post (May 21, 2015) | [karpathy.github.io](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
+| 2015 | Pointer Networks | arXiv (June 9, 2015) | [PDF](http://papers.neurips.cc/paper/5866-pointer-networks.pdf) |
+| 2015 | Understanding LSTM Networks | Blog Post (August 2015) | [PDF](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) |
+| 2015 | Multi-Scale Context Aggregation by Dilated Convolutions | arXiv (November 23, 2015) | [arXiv](https://arxiv.org/pdf/1511.07122) |
+| 2015 | Order Matters: Sequence to Sequence for Sets | arXiv (November 2015) | [arXiv](https://arxiv.org/pdf/1511.06391) |
+| 2015 | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin | PMLR (2016) | [PDF](https://proceedings.mlr.press/v48/amodei16.pdf) |
+| 2015 | Deep Residual Learning for Image Recognition | arXiv (December 10, 2015) | [arXiv](https://arxiv.org/pdf/1512.03385) |
+| 2016 | Identity Mappings in Deep Residual Networks | arXiv (March 16, 2016) | [arXiv](https://arxiv.org/pdf/1603.05027) |
+| 2016 | Variational Lossy Autoencoder | arXiv (November 8, 2016) | [arXiv](https://arxiv.org/pdf/1611.02731) |
+| 2017 | Neural Message Passing for Quantum Chemistry | arXiv (April 4, 2017) | [arXiv](https://arxiv.org/pdf/1704.01212) |
+| 2017 | A Simple Neural Network Module for Relational Reasoning | arXiv (June 5, 2017) | [arXiv](https://arxiv.org/pdf/1706.01427) |
+| 2017 | Attention Is All You Need | arXiv (June 12, 2017) | [arXiv](https://arxiv.org/pdf/1706.03762) |
+| 2018 | The Annotated Transformer | Workshop Paper (January 2018) | [nlp.seas.harvard.edu](https://nlp.seas.harvard.edu/annotated-transformer/) |
+| 2018 | Relational Recurrent Neural Networks | arXiv (June 5, 2018) | [arXiv](https://arxiv.org/pdf/1806.01822) |
+| 2018 | GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism | arXiv (November 16, 2018) | [arXiv](https://arxiv.org/pdf/1811.06965) |
+| 2019 | The First Law of Complexodynamics | Blog Post (2011) | [scottaaronson.blog](https://scottaaronson.blog/?p=762) |
+| 2020 | Scaling Laws for Neural Language Models | arXiv (January 23, 2020) | [arXiv](https://arxiv.org/pdf/2001.08361) |
+| 2020 | Dense Passage Retrieval for Open-Domain Question Answering | arXiv (April 7, 2020) | [arXiv](https://arxiv.org/pdf/2004.04906) |
+| 2020 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv (May 22, 2020) | [arXiv](https://arxiv.org/pdf/2005.11401) |
+| 2023 | Lost in the Middle: How Language Models Use Long Contexts | arXiv (July 6, 2023) | [arXiv](https://arxiv.org/pdf/2307.03172) |
+| 2023 | The Perils & Promises of Fact-checking with Large Language Models | arXiv (October 23, 2023) | [arXiv](https://arxiv.org/pdf/2310.13549) |
+| 2023 | Zephyr: Direct Distillation of LM Alignment | arXiv (October 25, 2023) | [arXiv](https://arxiv.org/pdf/2310.16944) |
+| 2023 | Better & Faster Large Language Models Via Multi-token Prediction | arXiv (April 30, 2024) | [arXiv](https://arxiv.org/pdf/2404.19737) |
+
 I created a NotebookLM audio overview of these papers. Remember that it's AI generated and not a full substitute for reading and understanding the studies:
 - [NotebookLM Audiobook](https://notebooklm.google.com/notebook/7ee53297-1fb7-4411-965a-02f48ce24c49/audio)
 
