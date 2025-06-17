@@ -144,23 +144,23 @@ Stanford CS25 Links
 | Year | Paper Title | Publication Details | Link |
 | :--- | :--- | :--- | :--- |
 | 1993 | Keeping Neural Networks Simple by Minimizing the Description Length of the Weights | NIPS 1993 | [PDF](https://www.cs.toronto.edu/~fritz/absps/colt93.pdf) |
-| 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication (June 2004) | [arXiv](https://arxiv.org/pdf/math/0406077) |
-| 2008 | Machine Super Intelligence | PhD Thesis (June 17, 2008) | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
+| 2004 | A Tutorial Introduction to the Minimum Description Length Principle | Online Publication | [arXiv](https://arxiv.org/pdf/math/0406077) |
+| 2008 | Machine Super Intelligence | PhD Thesis | [Google Drive](https://drive.google.com/file/d/1JbfsVZhEqx0AEXcEqZxaPre1AZUC_Q9l) |
 | 2011 | The First Law of Complexodynamics | Blog Post (2011) | [scottaaronson.blog](https://scottaaronson.blog/?p=762) |
 | 2012 | ImageNet Classification with Deep Convolutional Neural Networks | NIPS 2012 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
-| 2014 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton | arXiv (May 27, 2014) | [arXiv](https://arxiv.org/pdf/1405.6903) |
-| 2014 | Neural Machine Translation by Jointly Learning to Align and Translate | arXiv (September 1, 2014) | [arXiv](https://arxiv.org/pdf/1409.0473) |
-| 2014 | Recurrent Neural Network Regularization | arXiv (September 8, 2014) | [arXiv](https://arxiv.org/pdf/1409.2329) |
-| 2014 | Neural Turing Machines | arXiv (October 20, 2014) | [arXiv](https://arxiv.org/pdf/1410.5401) |
-| 2015 | The Unreasonable Effectiveness of Recurrent Neural Networks | Blog Post (May 21, 2015) | [karpathy.github.io](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
-| 2015 | Pointer Networks | arXiv (June 9, 2015) | [PDF](http://papers.neurips.cc/paper/5866-pointer-networks.pdf) |
-| 2015 | Understanding LSTM Networks | Blog Post (August 2015) | [PDF](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) |
-| 2015 | Multi-Scale Context Aggregation by Dilated Convolutions | arXiv (November 23, 2015) | [arXiv](https://arxiv.org/pdf/1511.07122) |
-| 2015 | Order Matters: Sequence to Sequence for Sets | arXiv (November 2015) | [arXiv](https://arxiv.org/pdf/1511.06391) |
+| 2014 | Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton | arXiv | [arXiv](https://arxiv.org/pdf/1405.6903) |
+| 2014 | Neural Turing Machines | arXiv | [arXiv](https://arxiv.org/pdf/1410.5401) |
+| 2015 | Recurrent Neural Network Regularization | arXiv | [arXiv](https://arxiv.org/pdf/1409.2329) |
+| 2015 | The Unreasonable Effectiveness of Recurrent Neural Networks | Blog Post | [karpathy.github.io](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) |
+| 2015 | Pointer Networks | arXiv | [PDF](http://papers.neurips.cc/paper/5866-pointer-networks.pdf) |
+| 2015 | Understanding LSTM Networks | Blog Post | [PDF](https://web.stanford.edu/class/cs379c/archive/2018/class_messages_listing/content/Artificial_Neural_Network_Technology_Tutorials/OlahLSTM-NEURAL-NETWORK-TUTORIAL-15.pdf) |
 | 2015 | Deep Speech 2: End-to-End Speech Recognition in English and Mandarin | PMLR (2016) | [PDF](https://proceedings.mlr.press/v48/amodei16.pdf) |
-| 2015 | Deep Residual Learning for Image Recognition | arXiv (December 10, 2015) | [arXiv](https://arxiv.org/pdf/1512.03385) |
-| 2016 | Identity Mappings in Deep Residual Networks | arXiv (March 16, 2016) | [arXiv](https://arxiv.org/pdf/1603.05027) |
-| 2016 | Variational Lossy Autoencoder | arXiv (November 8, 2016) | [arXiv](https://arxiv.org/pdf/1611.02731) |
+| 2015 | Deep Residual Learning for Image Recognition | arXiv | [arXiv](https://arxiv.org/pdf/1512.03385) |
+| 2016 | Order Matters: Sequence to Sequence for Sets | arXiv | [arXiv](https://arxiv.org/pdf/1511.06391) |
+| 2016 | Multi-Scale Context Aggregation by Dilated Convolutions | arXiv | [arXiv](https://arxiv.org/pdf/1511.07122) |
+| 2016 | Neural Machine Translation by Jointly Learning to Align and Translate | arXiv | [arXiv](https://arxiv.org/pdf/1409.0473) |
+| 2016 | Identity Mappings in Deep Residual Networks | arXiv | [arXiv](https://arxiv.org/pdf/1603.05027) |
+| 2017 | Variational Lossy Autoencoder | arXiv (November 8, 2016) | [arXiv](https://arxiv.org/pdf/1611.02731) |
 | 2017 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
 | 2017 | Neural Message Passing for Quantum Chemistry | arXiv (April 4, 2017) | [arXiv](https://arxiv.org/pdf/1704.01212) |
 | 2017 | A Simple Neural Network Module for Relational Reasoning | arXiv (June 5, 2017) | [arXiv](https://arxiv.org/pdf/1706.01427) |
