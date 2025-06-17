@@ -56,16 +56,17 @@
 - [Guide to Reasoning Models](https://docs.google.com/document/d/1AwylUdyciJhvYn-64ltpe79UL7_G-BmNwqs4NNt4oQ0)
 
 ### Stanford YouTube Videos
-check out Stanford Online's playlists and look for AI collections:
+Stanford Online's Playlists (look for AI collections):
 - https://www.youtube.com/@stanfordonline/playlists
+
 - [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 Stanford CS25 Links
-- 2021 (v1): https://web.stanford.edu/class/cs25/past/cs25-v1/
-- 2023 (v2): https://web.stanford.edu/class/cs25/past/cs25-v2/
-- 2024-1 (v3): https://web.stanford.edu/class/cs25/past/cs25-v3/
-- 2024-2 (v4): https://web.stanford.edu/class/cs25/past/cs25-v4/
-- 2025 (v5): https://web.stanford.edu/class/cs25/
+- [Stanford 2021 (v1)](https://web.stanford.edu/class/cs25/past/cs25-v1/)
+- [Stanford 2023 (v2)](https://web.stanford.edu/class/cs25/past/cs25-v2/)
+- [Stanford 2024-1 (v3)](https://web.stanford.edu/class/cs25/past/cs25-v3/)
+- [Stanford 2024-2 (v4)](https://web.stanford.edu/class/cs25/past/cs25-v4/)
+- [Stanford 2025 (v5)](https://web.stanford.edu/class/cs25/)
 
 ## Applied AI
 
