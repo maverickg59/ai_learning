@@ -59,6 +59,7 @@
 Stanford Online's Playlists (look for AI collections):
 - https://www.youtube.com/@stanfordonline/playlists
 
+Stanford CS229 Links
 - [Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 Stanford CS25 Links
