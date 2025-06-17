@@ -69,6 +69,22 @@ Stanford CS25 Links
 
 ## Applied AI
 
+### Agentic Editors:
+- [Claude Code](https://www.anthropic.com/claude-code)
+- [Mastering Claude Code in 30 minutes (Anthropic)](https://www.youtube.com/watch?v=6eBSHbLKuN0)
+- [Amp Code](https://ampcode.com/)
+- [OpenCode](https://github.com/opencode-ai/opencode)
+- VS Code with GitHub Copilot
+- [Windsurf](https://windsurf.com/)
+- [Cursor](https://www.cursor.com/)
+- [RooCode]([https://roocode.com/](https://github.com/RooCodeInc/Roo-Code))
+- [Cline](https://github.com/cline/cline)
+
+### Chat Apps
+- [NoteAI](https://noteai.dev/)
+- [Chorus](https://chorus.sh/)
+- [Jan](https://jan.ai/)
+
 ### Model Context Protocol:
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/punkpeye/awesome-mcp-clients
@@ -78,6 +94,7 @@ Stanford CS25 Links
 - https://docsbot.ai/models
 - https://artificialanalysis.ai/
 - https://web.lmarena.ai/leaderboard
+- https://models.dev
 
 ### Running Locally - Tutorials:
 - https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
@@ -86,10 +103,10 @@ Stanford CS25 Links
 - https://github.com/open-webui/open-webui
 - https://github.com/oobabooga/text-generation-webui
 
-### Running Locally - Model Runner
+### Running Locally - Model Engine
 - https://github.com/ollama/ollama
 
-### Running Locally - UI + Model Runner:
+### Running Locally - UI + Model Engine:
 - https://github.com/lmstudio-ai
 - https://github.com/nomic-ai/gpt4all
 
@@ -97,8 +114,9 @@ Stanford CS25 Links
 - https://github.com/open-webui/mcpo
 
 ### Tools:
-- https://opentools.ai/
-- https://deepwiki.com/
+- https://opentools.ai
+- https://deepwiki.com
+- https://www.youtube.com/watch?v=6eBSHbLKuN0
 
 ## Interesting Models
 
