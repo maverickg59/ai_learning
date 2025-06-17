@@ -28,10 +28,6 @@
 - [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
 - [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
 
-### Model Context Protocol:
-- https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers
-- https://modelcontextprotocol.io/introduction
-
 ### Prompt Engineering:
 - https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 - https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
@@ -93,6 +89,8 @@ Stanford CS25 Links
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/punkpeye/awesome-mcp-clients
 - https://github.com/punkpeye/awesome-mcp-devtools
+- https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers
+- https://modelcontextprotocol.io/introduction
 
 ### Comparing Models:
 - https://docsbot.ai/models
