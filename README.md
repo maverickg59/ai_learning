@@ -160,21 +160,21 @@ Stanford CS25 Links
 | 2016 | Multi-Scale Context Aggregation by Dilated Convolutions | arXiv | [arXiv](https://arxiv.org/pdf/1511.07122) |
 | 2016 | Neural Machine Translation by Jointly Learning to Align and Translate | arXiv | [arXiv](https://arxiv.org/pdf/1409.0473) |
 | 2016 | Identity Mappings in Deep Residual Networks | arXiv | [arXiv](https://arxiv.org/pdf/1603.05027) |
-| 2017 | Variational Lossy Autoencoder | arXiv (November 8, 2016) | [arXiv](https://arxiv.org/pdf/1611.02731) |
-| 2017 | Kolmogorov Complexity and Algorithmic Randomness | Foundational concepts by Andrey Kolmogorov | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
-| 2017 | Neural Message Passing for Quantum Chemistry | arXiv (April 4, 2017) | [arXiv](https://arxiv.org/pdf/1704.01212) |
-| 2017 | A Simple Neural Network Module for Relational Reasoning | arXiv (June 5, 2017) | [arXiv](https://arxiv.org/pdf/1706.01427) |
-| 2017 | Attention Is All You Need | arXiv (June 12, 2017) | [arXiv](https://arxiv.org/pdf/1706.03762) |
-| 2018 | The Annotated Transformer | Workshop Paper (January 2018) | [nlp.seas.harvard.edu](https://nlp.seas.harvard.edu/annotated-transformer/) |
-| 2018 | Relational Recurrent Neural Networks | arXiv (June 5, 2018) | [arXiv](https://arxiv.org/pdf/1806.01822) |
-| 2018 | GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism | arXiv (November 16, 2018) | [arXiv](https://arxiv.org/pdf/1811.06965) |
-| 2020 | Scaling Laws for Neural Language Models | arXiv (January 23, 2020) | [arXiv](https://arxiv.org/pdf/2001.08361) |
-| 2020 | Dense Passage Retrieval for Open-Domain Question Answering | arXiv (April 7, 2020) | [arXiv](https://arxiv.org/pdf/2004.04906) |
-| 2020 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv (May 22, 2020) | [arXiv](https://arxiv.org/pdf/2005.11401) |
-| 2023 | Lost in the Middle: How Language Models Use Long Contexts | arXiv (July 6, 2023) | [arXiv](https://arxiv.org/pdf/2307.03172) |
-| 2023 | The Perils & Promises of Fact-checking with Large Language Models | arXiv (October 23, 2023) | [arXiv](https://arxiv.org/pdf/2310.13549) |
-| 2023 | Zephyr: Direct Distillation of LM Alignment | arXiv (October 25, 2023) | [arXiv](https://arxiv.org/pdf/2310.16944) |
-| 2023 | Better & Faster Large Language Models Via Multi-token Prediction | arXiv (April 30, 2024) | [arXiv](https://arxiv.org/pdf/2404.19737) |
+| 2017 | Variational Lossy Autoencoder | arXiv | [arXiv](https://arxiv.org/pdf/1611.02731) |
+| 2017 | Kolmogorov Complexity and Algorithmic Randomness | Henry Steinitz | [PDF](https://math.uchicago.edu/~may/REU2013/REUPapers/Steinitz.pdf) |
+| 2017 | Neural Message Passing for Quantum Chemistry | arXiv | [arXiv](https://arxiv.org/pdf/1704.01212) |
+| 2017 | A Simple Neural Network Module for Relational Reasoning | arXiv | [arXiv](https://arxiv.org/pdf/1706.01427) |
+| 2017 | Attention Is All You Need | arXiv | [arXiv](https://arxiv.org/pdf/1706.03762) |
+| 2018 | The Annotated Transformer | Workshop Paper | [nlp.seas.harvard.edu](https://nlp.seas.harvard.edu/annotated-transformer/) |
+| 2018 | Relational Recurrent Neural Networks | arXiv | [arXiv](https://arxiv.org/pdf/1806.01822) |
+| 2018 | GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism | arXiv | [arXiv](https://arxiv.org/pdf/1811.06965) |
+| 2020 | Scaling Laws for Neural Language Models | arXiv | [arXiv](https://arxiv.org/pdf/2001.08361) |
+| 2020 | Dense Passage Retrieval for Open-Domain Question Answering | arXiv | [arXiv](https://arxiv.org/pdf/2004.04906) |
+| 2020 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv | [arXiv](https://arxiv.org/pdf/2005.11401) |
+| 2023 | Lost in the Middle: How Language Models Use Long Contexts | arXiv | [arXiv](https://arxiv.org/pdf/2307.03172) |
+| 2023 | The Perils & Promises of Fact-checking with Large Language Models | arXiv | [arXiv](https://arxiv.org/pdf/2310.13549) |
+| 2023 | Zephyr: Direct Distillation of LM Alignment | arXiv | [arXiv](https://arxiv.org/pdf/2310.16944) |
+| 2023 | Better & Faster Large Language Models Via Multi-token Prediction | arXiv | [arXiv](https://arxiv.org/pdf/2404.19737) |
 
 I created a NotebookLM audio overview of these papers. Remember that it's AI generated and not a full substitute for reading and understanding the studies:
 - [NotebookLM Audiobook](https://notebooklm.google.com/notebook/7ee53297-1fb7-4411-965a-02f48ce24c49/audio)
@@ -182,8 +182,8 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 ### The Illusion of Thinking
 | Year | Paper Title | Publication Details | Link |
 | :--- | :--- | :--- | :--- |
-| 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple) | arXiv (June 11, 2025) | [arXiv](https://arxiv.org/pdf/2506.06941) |
-| 2025 | The Illusion of the Illusion of Thinking (Anthropic) | arXiv (June 14, 2025) | [arXiv](https://arxiv.org/pdf/2506.09250v1) |
+| 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity (Apple) | arXiv | [arXiv](https://arxiv.org/pdf/2506.06941) |
+| 2025 | The Illusion of the Illusion of Thinking (Anthropic) | arXiv | [arXiv](https://arxiv.org/pdf/2506.09250v1) |
 
 ### Recent Papers
 | Year | Paper Title | Publication Details | Link |
