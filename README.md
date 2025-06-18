@@ -186,31 +186,31 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | 2025 | The Illusion of the Illusion of Thinking (Anthropic) | arXiv | [arXiv](https://arxiv.org/pdf/2506.09250v1) |
 
 ### Recent Papers
-| Year | Paper Title | Publication Details | Link | GitHub (if available) |
-| :--- | :--- | :--- | :--- | :--- |
+| Year | Paper Title | Link | GitHub (if available) |
+| :--- | :--- | :--- | :--- |
 | 2020 | T5 | [PDF](https://arxiv.org/pdf/1910.10683.pdf) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
 | 2020 | GPT‑3 | [PDF](https://arxiv.org/pdf/2005.14165.pdf) | N/A |
 | 2020 | RAG | [PDF](https://arxiv.org/pdf/2005.11401.pdf) | [GitHub](https://github.com/sandeshshrestha45/retrieval-augmented-generation) |
 | 2022 | Chain-of-Thought Prompting | [PDF](https://arxiv.org/pdf/2201.11903.pdf) | N/A |
 | 2022 | Constitutional AI | [PDF](https://arxiv.org/pdf/2212.08073.pdf) | [GitHub](https://github.com/anthropics/ConstitutionalHarmlessnessPaper) |
-| 2023 | Gorilla: Large Language Model Connected with Massive APIs | arXiv (May 24, 2023) | [arXiv](https://arxiv.org/pdf/2305.15334) | N/A |
+| 2023 | Gorilla: Large Language Model Connected with Massive APIs | [arXiv](https://arxiv.org/pdf/2305.15334) | N/A |
 | 2023 | GPT‑4 Technical Report | [PDF](https://arxiv.org/pdf/2303.08774.pdf) | N/A |
 | 2023 | Llama 2 | [PDF](https://arxiv.org/pdf/2307.09288.pdf) | [GitHub](https://github.com/meta-llama/llama) |
 | 2023 | Instruction Tuning Survey | [PDF](https://arxiv.org/pdf/2308.10792.pdf) | [GitHub](https://github.com/xiaoya-li/Instruction-Tuning-Survey) |
 | 2023 | Direct Preference Optimization (DPO) | [PDF](https://arxiv.org/pdf/2305.18290.pdf) | [GitHub](https://github.com/0xallam/Direct-Preference-Optimization) |
-| 2024 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | arXiv (February 27, 2024) | [arXiv](https://arxiv.org/pdf/2402.17764) | N/A |
+| 2024 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [arXiv](https://arxiv.org/pdf/2402.17764) | N/A |
 | 2024 | Mixtral of Experts | [PDF](https://arxiv.org/pdf/2401.04088.pdf) | N/A |
 | 2024 | Learning to Retrieve In‑Context Examples | [PDF](https://aclanthology.org/2024.eacl-long.105.pdf) | [GitHub](https://github.com/microsoft/LMOps/tree/main/llm_retriever) |
 | 2024 | xLSTM | [PDF](https://arxiv.org/pdf/2405.04517.pdf) | [GitHub](https://github.com/ml-jku/xlstm) |
 | 2024 | Visual Autoregressive Modeling | [PDF](https://arxiv.org/pdf/2312.02224.pdf) | N/A |
 | 2024 | Learning Interactive Real‑World Simulators | [PDF](https://arxiv.org/pdf/2310.06114.pdf) | [GitHub](https://universal-simulator.github.io/) |
 | 2024 | Debating with More Persuasive LLMs | [PDF](https://arxiv.org/pdf/2405.15069.pdf) | [GitHub](https://github.com/ucl-dark/llm_debate) |
-| 2025 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | arXiv (April 14, 2025) | [arXiv](https://arxiv.org/pdf/2504.10449) | N/A |
-| 2025 | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv (June 5, 2025) | [arXiv](https://arxiv.org/pdf/2506.05573) | N/A |
-| 2025 | Self-Adapting Language Models | arXiv (June 12, 2025) | [arXiv](https://arxiv.org/pdf/2506.10943) | N/A |
-| 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | arXiv (June 13, 2025) | [arXiv](https://arxiv.org/pdf/2506.11555) | N/A |
-| 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | arXiv (June 14, 2025) | [arXiv](https://www.arxiv.org/pdf/2506.12365) | N/A |
-| 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.| Google DeepMind Gemini Team (June 17, 2025) | [Google](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | N/A |
+| 2025 | M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models | [arXiv](https://arxiv.org/pdf/2504.10449) | N/A |
+| 2025 | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | [arXiv](https://arxiv.org/pdf/2506.05573) | N/A |
+| 2025 | Self-Adapting Language Models | [arXiv](https://arxiv.org/pdf/2506.10943) | N/A |
+| 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | [arXiv](https://arxiv.org/pdf/2506.11555) | N/A |
+| 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | [arXiv](https://www.arxiv.org/pdf/2506.12365) | N/A |
+| 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.| [Google](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | N/A |
 
 ### Older Papers
 | Year | Paper Title | PDF Link | GitHub Link |
