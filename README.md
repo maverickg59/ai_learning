@@ -1,41 +1,33 @@
 # AI Resources 
-## AI Learning
+
+## AI for Leaders
+### AI in the Enterprise:
+- https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
+- https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
+- https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and
+  
+## Learn About AI
 
 ### AI Engineer Handbooks:
 - https://handbook.exemplar.dev
 - https://genai-handbook.github.io/
 
+### Research Blogs:
+- [Andrej Karpathy Home](https://karpathy.ai/)
+- [Andrej Karpathy Blog](https://karpathy.github.io/)
+- [Dr. Furu Wei Home](https://thegenerality.com)
+- [Dr. Furu Wei AGI](https://thegenerality.com/agi)
+- [Hazy Research - Stanford](https://hazyresearch.stanford.edu/)
+
 ### Engineer Blogs:
-- https://karpathy.ai/
+- https://vinija.ai/
+- https://simonwillison.net/
 - https://lilianweng.github.io/
 - https://mcginniscommawill.com/
-- https://simonwillison.net/
-- https://vinija.ai/
 
 ### Deep Learning:
 - https://www.youtube.com/@AndrejKarpathy
 - https://github.com/adam-maj/deep-learning
-
-### Agentic Modeling:
-- https://github.com/humanlayer/12-factor-agents
-- https://github.com/microsoft/ai-agents-for-beginners
-- https://github.com/karpathy/LLM101n
-- https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
-- https://ampcode.com/how-to-build-an-agent
-- https://www.anthropic.com/engineering/building-effective-agents
-- https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
-- https://github.com/NirDiamant/agents-towards-production
-- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
-- [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
-- [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
-
-### Prompt Engineering:
-- https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
-- https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
-
-### Training Providers:
-- https://eurekalabs.ai/ (by Andrej Karpathy - coming soon)
-- [DAIR.AI](https://dair-ai.thinkific.com)
 
 ### Machine Learning:
 - https://mlu-explain.github.io/
@@ -87,6 +79,25 @@ Stanford CS25 Links
 - [NoteAI](https://noteai.dev/)
 - [Chorus](https://chorus.sh/)
 - [Jan](https://jan.ai/)
+- [OpenWebUI](https://github.com/open-webui/open-webui)
+- [Oobabooga](https://github.com/oobabooga/text-generation-webui)
+
+### Agentic Modeling:
+- https://github.com/humanlayer/12-factor-agents
+- https://github.com/microsoft/ai-agents-for-beginners
+- https://github.com/karpathy/LLM101n
+- https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents
+- https://ampcode.com/how-to-build-an-agent
+- https://www.anthropic.com/engineering/building-effective-agents
+- https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+- https://github.com/NirDiamant/agents-towards-production
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Tiny Agents - Python](https://huggingface.co/blog/python-tiny-agents)
+- [Tiny Agents - JS](https://huggingface.co/blog/tiny-agents)
+
+### Prompt Engineering:
+- https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
+- https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 
 ### Model Context Protocol:
 - https://github.com/punkpeye/awesome-mcp-servers
@@ -94,49 +105,36 @@ Stanford CS25 Links
 - https://github.com/punkpeye/awesome-mcp-devtools
 - https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers
 - https://modelcontextprotocol.io/introduction
+- https://github.com/open-webui/mcpo
+
+### Running Locally - Model Engine
+- https://github.com/ollama/ollama
+- https://github.com/vllm-project/vllm
+- [Docker Model Runner + Go](https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang)
+- https://github.com/lmstudio-ai
+- https://github.com/nomic-ai/gpt4all
+
+### Open Source Models
+- [Microsoft Bitnet](https://github.com/microsoft/BitNet)
+- [NVIDIA Parakeet v2](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2)
+- [Berkely Gorilla](https://gorilla.cs.berkeley.edu/)
+
+### One Bit LLMs
+- [Don't Sleep on Bitnet](https://jackson.dev/post/dont-sleep-on-bitnet/)
+- [All LLMs Will Be Sparse BitNet Hybrids](https://huggingface.co/blog/codys12/rl-2025)
 
 ### Comparing Models:
 - https://docsbot.ai/models
 - https://artificialanalysis.ai/
 - https://web.lmarena.ai/leaderboard
 - https://models.dev
-
-### Running Locally - Tutorials:
-- https://k33g.hashnode.dev/first-contact-with-docker-model-runner-in-golang
-
-### Running Locally - UI:
-- https://github.com/open-webui/open-webui
-- https://github.com/oobabooga/text-generation-webui
-
-### Running Locally - Model Engine
-- https://github.com/ollama/ollama
-
-### Running Locally - UI + Model Engine:
-- https://github.com/lmstudio-ai
-- https://github.com/nomic-ai/gpt4all
-
-### Running Locally - MCP Support:
-- https://github.com/open-webui/mcpo
+- https://livecodebench.github.io/index.html
+- [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
 ### Tools:
 - https://opentools.ai
 - https://deepwiki.com
 - https://www.youtube.com/watch?v=6eBSHbLKuN0
-
-## Interesting Models
-
-### One Bit LLM:
-- [Microsoft Bitnet](https://github.com/microsoft/BitNet)
-- [Don't Sleep on Bitnet](https://jackson.dev/post/dont-sleep-on-bitnet/)
-- [All LLMs Will Be Sparse BitNet Hybrids](https://huggingface.co/blog/codys12/rl-2025)
-
-### NVIDIA Parakeet v2:
-- https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
-
-## AI for Leaders
-### AI in the Enterprise:
-- https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
-- https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
 
 ## Research Papers:
 
@@ -186,7 +184,7 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | 2025 | The Illusion of the Illusion of Thinking (Anthropic) | arXiv | [arXiv](https://arxiv.org/pdf/2506.09250v1) |
 
 ### Recent Papers
-| Year | Paper Title | Link | GitHub (if available) |
+| Year | Paper Title | Link | GitHub (if found) |
 | :--- | :--- | :--- | :--- |
 | 2020 | T5 | [PDF](https://arxiv.org/pdf/1910.10683.pdf) | [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
 | 2020 | GPT‑3 | [PDF](https://arxiv.org/pdf/2005.14165.pdf) | N/A |
@@ -211,6 +209,12 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | 2025 | RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning | [arXiv](https://arxiv.org/pdf/2506.11555) | N/A |
 | 2025 | Advances in LLMs with Focus on Reasoning, Adaptability, Efficiency and Ethics | [arXiv](https://www.arxiv.org/pdf/2506.12365) | N/A |
 | 2025 | Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.| [Google](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) | N/A |
+| 2025 | Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives | [arXiv](https://arxiv.org/pdf/2502.04358) | N/A |
+| 2025 | Play to Generalize: Learning to Reason Through Game Play | [arXiv](https://www.arxiv.org/pdf/2506.08011) | N/A |
+| 2025 | Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought | [arXiv](https://arxiv.org/pdf/2505.12514) | N/A |
+| 2025 | Reinforcement Pre-Training | [arXiv](https://arxiv.org/pdf/2506.08007) | N/A |
+| 2025 | Build the web for agents, not agents for the web | [arXiv](https://arxiv.org/pdf/2506.10953) | N/A |
+| 2025 | Large Language Models and Emergence: A Complex Systems Perspective | [arXiv](https://arxiv.org/pdf/2506.11135) | N/A |
 
 ### Older Papers
 | Year | Paper Title | PDF Link | GitHub Link |
@@ -220,6 +224,12 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | 2015 | ImageNet Large Scale Visual Recognition Challenge | [PDF](https://arxiv.org/pdf/1409.0575.pdf) | N/A |
 | 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [PDF](https://arxiv.org/pdf/1810.04805.pdf) | [GitHub](https://github.com/brightmart/bert_language_understanding) |
 | 2019 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [PDF](https://arxiv.org/pdf/1907.11692.pdf) | N/A |
+
+### Potentially Controversial
+| Year | Paper Title | Link |
+| :--- | :--- | :--- |
+| 2025 | Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce | [arXiv](https://arxiv.org/pdf/2506.06576) |
+| 2025 | Don't Pay Attention | [arXiv](https://arxiv.org/pdf/2506.11305) |
 
 
 ## Wiki Articles on Important Concepts:
