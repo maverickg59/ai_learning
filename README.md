@@ -1,7 +1,6 @@
 # AI Resources 
 
 ## AI for Leaders
-### AI in the Enterprise:
 - https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf
 - https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf
 - https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and
