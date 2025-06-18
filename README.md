@@ -215,14 +215,11 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 ### Older Papers
 | Year | Paper Title | PDF Link | GitHub Link |
 |------|-------------|----------|-------------|
-| 2012 | AlexNet | [PDF](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) | N/A |
-| 2013 | Word2Vec | [PDF](https://arxiv.org/pdf/1301.3781.pdf) | [GitHub](https://github.com/ni9elf/Word2VecImplementation) |
+| 2013 | Efficient Estimation of Word Representations in Vector Space | [PDF](https://arxiv.org/pdf/1301.3781.pdf) | [GitHub](https://github.com/ni9elf/Word2VecImplementation) |
 | 2014 | Generative Adversarial Networks (GANs) | [PDF](https://arxiv.org/pdf/1406.2661.pdf) | [GitHub](https://github.com/JayantGoel001/GeneralAdversarialNetwork) |
 | 2015 | ImageNet Large Scale Visual Recognition Challenge | [PDF](https://arxiv.org/pdf/1409.0575.pdf) | N/A |
-| 2016 | ResNet | [PDF](https://arxiv.org/pdf/1512.03385.pdf) | [GitHub](https://github.com/KaimingHe/deep-residual-networks) |
-| 2017 | Attention Is All You Need | [PDF](https://arxiv.org/pdf/1706.03762.pdf) | [GitHub](https://github.com/retrogtx/attention-is-all-you-need) |
-| 2018 | BERT | [PDF](https://arxiv.org/pdf/1810.04805.pdf) | [GitHub](https://github.com/brightmart/bert_language_understanding) |
-| 2019 | RoBERTa | [PDF](https://arxiv.org/pdf/1907.11692.pdf) | N/A |
+| 2018 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [PDF](https://arxiv.org/pdf/1810.04805.pdf) | [GitHub](https://github.com/brightmart/bert_language_understanding) |
+| 2019 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [PDF](https://arxiv.org/pdf/1907.11692.pdf) | N/A |
 
 
 ## Wiki Articles on Important Concepts:
