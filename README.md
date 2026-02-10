@@ -214,6 +214,8 @@ I created a NotebookLM audio overview of these papers. Remember that it's AI gen
 | 2025 | Reinforcement Pre-Training | [arXiv](https://arxiv.org/pdf/2506.08007) | N/A |
 | 2025 | Build the web for agents, not agents for the web | [arXiv](https://arxiv.org/pdf/2506.10953) | N/A |
 | 2025 | Large Language Models and Emergence: A Complex Systems Perspective | [arXiv](https://arxiv.org/pdf/2506.11135) | N/A |
+| 2026 | Large Language Model Reasoning Failures | [arXiv](https://www.arxiv.org/pdf/2602.06176) | [GitHub](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures) |
+| 2026 | FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation | [arXiv](https://www.arxiv.org/pdf/2602.03798) | [GitHub]([https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures](https://github.com/mnluzimu/FullStack-Agent)) |
 
 ### Older Papers
 | Year | Paper Title | PDF Link | GitHub Link |
